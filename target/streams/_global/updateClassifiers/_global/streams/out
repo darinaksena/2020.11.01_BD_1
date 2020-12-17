@@ -1,0 +1,5 @@
+[warn] scala-library-2.12.9-sources.jar no longer exists at C:\Users\Daria_Aksenova\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.9\scala-library-2.12.9-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/Daria/Downloads/2020.11.01_BD_1/"), "root-2020-11-01_bd_1")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/Daria/Downloads/2020.11.01_BD_1/"), "root-2020-11-01_bd_1")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
